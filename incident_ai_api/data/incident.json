@@ -1,1 +1,51 @@
-
+[
+  {
+    "asset_id": "PUMP-101",
+    "alarm": "High temperature",
+    "description": "Pump temperature has increased above the normal operating range.",
+    "temperature": 98,
+    "pressure": 7.2,
+    "vibration": 8.5
+  },
+  {
+    "asset_id": "MOTOR-201",
+    "alarm": "Excessive vibration",
+    "description": "Motor vibration has increased significantly during operation.",
+    "temperature": 72,
+    "pressure": 5.4,
+    "vibration": 12.3
+  },
+  {
+    "asset_id": "COMP-301",
+    "alarm": "High pressure",
+    "description": "Compressor pressure is above the configured safe operating range.",
+    "temperature": 85,
+    "pressure": 15.8,
+    "vibration": 4.1
+  },
+  {
+    "asset_id": "TANK-401",
+    "alarm": "Oil leak detected",
+    "description": "Operator observed oil leakage near the tank connection.",
+    "temperature": 65,
+    "pressure": 4.5,
+    "vibration": 2.1
+  },
+  {
+    "asset_id": "MOTOR-501",
+    "alarm": "Motor failure",
+    "description": "Motor stopped unexpectedly during normal operation.",
+    "temperature": 80,
+    "pressure": 6.2,
+    "vibration": 9.8
+  },
+  {
+    "asset_id": "PUMP-601",
+    "alarm": "High temperature",
+    "description": "Pump casing temperature is continuously increasing.",
+    "temperature": 105,
+    "pressure": 8.1,
+    "vibration": 10.2
+  }
+]
+ 
