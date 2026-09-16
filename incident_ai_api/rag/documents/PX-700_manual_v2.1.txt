@@ -1,0 +1,50 @@
+PX-700 INDUSTRIAL PUMP
+Maintenance Manual
+Version: 2.1
+ 
+Section 1: High Temperature Alarm
+ 
+Alarm Code: TEMP-HIGH
+ 
+When the pump temperature exceeds the normal operating range, the TEMP-HIGH alarm is triggered.
+ 
+Possible causes:
+1. Cooling fan failure
+2. High ambient temperature
+3. Bearing friction
+4. Excessive pump load
+ 
+Recommended checks:
+1. Check cooling fan operation.
+2. Check ambient temperature.
+3. Inspect bearing condition.
+4. Verify pump load.
+ 
+For PX-700 pumps, the normal bearing temperature should remain below 90 degrees Celsius.
+ 
+If bearing temperature exceeds 90 degrees Celsius, stop the pump and inspect the bearing.
+ 
+Section 2: Vibration Alarm
+ 
+Alarm Code: VIB-HIGH
+ 
+Possible causes:
+1. Coupling misalignment
+2. Bearing damage
+3. Rotor imbalance
+4. Loose foundation bolts
+ 
+Recommended checks:
+1. Inspect coupling alignment.
+2. Check bearing condition.
+3. Inspect rotor balance.
+4. Check foundation bolts.
+ 
+Section 3: Preventive Maintenance
+ 
+Perform the following checks:
+ 
+1. Inspect bearings.
+2. Check cooling fan.
+3. Check coupling alignment.
+4. Record vibration and temperature readings.

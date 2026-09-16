@@ -1,0 +1,53 @@
+PX-500 INDUSTRIAL PUMP
+Maintenance Manual
+Version: 3.2
+ 
+Section 1: High Temperature Alarm
+ 
+Alarm Code: TEMP-HIGH
+ 
+When the pump temperature exceeds the normal operating range, the TEMP-HIGH alarm is triggered.
+ 
+Possible causes:
+1. Insufficient cooling flow
+2. Low lubrication level
+3. Bearing overheating
+4. Blocked cooling passage
+5. Excessive pump load
+ 
+Recommended checks:
+1. Check cooling water flow.
+2. Inspect the cooling passage for blockage.
+3. Check bearing temperature.
+4. Check lubrication level.
+5. Verify that the pump is not operating above its rated load.
+ 
+For PX-500 pumps, the normal bearing temperature should remain below 80 degrees Celsius.
+ 
+If bearing temperature exceeds 80 degrees Celsius, stop the pump and inspect the bearing and lubrication system.
+ 
+Section 2: Vibration Alarm
+ 
+Alarm Code: VIB-HIGH
+ 
+Possible causes:
+1. Bearing wear
+2. Shaft misalignment
+3. Loose mounting bolts
+4. Rotor imbalance
+ 
+Recommended checks:
+1. Inspect bearing condition.
+2. Check shaft alignment.
+3. Check mounting bolts.
+4. Inspect rotor balance.
+ 
+Section 3: Preventive Maintenance
+ 
+Perform the following checks during preventive maintenance:
+ 
+1. Inspect bearings.
+2. Check lubrication.
+3. Inspect cooling system.
+4. Check mounting bolts.
+5. Record vibration and temperature readings.

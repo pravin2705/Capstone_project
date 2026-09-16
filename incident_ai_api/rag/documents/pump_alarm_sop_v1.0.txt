@@ -1,0 +1,32 @@
+INDUSTRIAL PUMP ALARM TROUBLESHOOTING SOP
+ 
+Version: 1.0
+ 
+Section 1: Temperature Alarm
+ 
+For a high temperature alarm:
+ 
+1. Confirm the alarm code.
+2. Check current temperature.
+3. Check cooling system operation.
+4. Check lubrication.
+5. Check bearing condition.
+6. If temperature continues to increase, stop the equipment according to safety procedures.
+ 
+Section 2: Vibration Alarm
+ 
+For a high vibration alarm:
+ 
+1. Confirm vibration alarm.
+2. Check bearing condition.
+3. Check shaft or coupling alignment.
+4. Check mounting or foundation bolts.
+5. Inspect rotor balance.
+ 
+Section 3: Safety
+ 
+Do not perform maintenance on rotating equipment while it is operating.
+ 
+Follow site lockout/tagout procedures before physical inspection.
+ 
+If the cause of the alarm cannot be determined, escalate the incident to the maintenance engineering team.
