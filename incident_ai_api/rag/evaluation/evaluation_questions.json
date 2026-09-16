@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "question": "What should I check for a high temperature alarm on PX-500?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 2,
+    "question": "What should I check when PX-500 has excessive vibration?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "Vibration Alarm"
+  },
+  {
+    "id": 3,
+    "question": "What preventive maintenance is required for PX-500?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "Preventive Maintenance"
+  },
+  {
+    "id": 4,
+    "question": "How should I troubleshoot high temperature on PX-500?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 5,
+    "question": "What causes vibration in PX-500?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "Vibration Alarm"
+  },
+  {
+    "id": 6,
+    "question": "What maintenance checks should be performed on PX-500?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "Preventive Maintenance"
+  },
+  {
+    "id": 7,
+    "question": "What action should be taken for a temperature alarm on PX-500?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 8,
+    "question": "How can excessive vibration be diagnosed on PX-500?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "Vibration Alarm"
+  },
+  {
+    "id": 9,
+    "question": "What safety checks are required before maintaining the pump?",
+    "machine_model": null,
+    "manual_version": "1.0",
+    "expected_section": "Safety"
+  },
+  {
+    "id": 10,
+    "question": "What should I do when the pump temperature becomes high?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 11,
+    "question": "What should I check for a high temperature alarm on PX-700?",
+    "machine_model": "PX-700",
+    "manual_version": "2.1",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 12,
+    "question": "How do I troubleshoot PX-700 high temperature?",
+    "machine_model": "PX-700",
+    "manual_version": "2.1",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 13,
+    "question": "What checks are required for PX-700 temperature problems?",
+    "machine_model": "PX-700",
+    "manual_version": "2.1",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 14,
+    "question": "What causes overheating in PX-700?",
+    "machine_model": "PX-700",
+    "manual_version": "2.1",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 15,
+    "question": "What maintenance is recommended for PX-700?",
+    "machine_model": "PX-700",
+    "manual_version": "2.1",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 16,
+    "question": "What should I check when PX-700 temperature increases?",
+    "machine_model": "PX-700",
+    "manual_version": "2.1",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 17,
+    "question": "What is the procedure for handling a pump temperature alarm?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 18,
+    "question": "What should be inspected when pump vibration is detected?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "Vibration Alarm"
+  },
+  {
+    "id": 19,
+    "question": "What routine maintenance should be performed on the pump?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "Preventive Maintenance"
+  },
+  {
+    "id": 20,
+    "question": "What safety precautions should an operator follow?",
+    "machine_model": null,
+    "manual_version": "1.0",
+    "expected_section": "Safety"
+  },
+  {
+    "id": 21,
+    "question": "How should a high temperature alarm be handled?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "High Temperature Alarm"
+  },
+  {
+    "id": 22,
+    "question": "How should excessive vibration be handled?",
+    "machine_model": "PX-500",
+    "manual_version": "3.2",
+    "expected_section": "Vibration Alarm"
+  }
+]
